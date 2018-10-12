@@ -18,7 +18,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #e4c6ff;
 }
 
 li {
@@ -27,13 +27,13 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: blueviolet;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 a:hover:not(.active) {
-    background-color: #111;
+    background-color: #a60eed;
 }
 
